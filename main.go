@@ -1,3 +1,11 @@
+/**
+ * TODO:
+ *
+ * Make pixel parsing concurrent
+ * Make Histogram a type
+ * Draw histogram or output in any way
+ */
+
 package main;
 
 import (
